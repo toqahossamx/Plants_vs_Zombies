@@ -1,0 +1,5 @@
+﻿  PVZ.cpp
+C:\Users\total\OneDrive\Desktop\AASTMT\Term 3\Codes\Project\PVZ\CC212SGL.h(28,2): warning C4091: '__declspec(dllimport)': ignored on left of 'COLORS' when no variable is declared
+C:\Users\total\OneDrive\Desktop\AASTMT\Term 3\Codes\Project\PVZ\PVZ.cpp(22,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1092,5): error MSB6006: "link.exe" exited with code 1104.
+LINK : fatal error LNK1104: cannot open file 'C:\Users\total\OneDrive\Desktop\AASTMT\Term 3\Codes\Project\PVZ.obj'
